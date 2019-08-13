@@ -22,7 +22,7 @@ Neo4j安装：https://blog.csdn.net/gggggao/article/details/93595137
 
 ![img2.1](images/1565669293981.png)
 
-数据导入neo4j的方式有四种[^img2.2]，因为节点数量不多，所以采用**LOAD CSV**的方式来进行导入
+数据导入neo4j的方式有五种[^img2.2]，因为节点数量不多，所以采用**LOAD CSV**的方式来进行导入
 
 ![img2.2](images/1565676761449.png)
 
