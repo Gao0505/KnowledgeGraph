@@ -315,7 +315,7 @@ neo4j-admin import --mode=csv --database=movie.db --nodes D:\TestCodes\Python\Cr
 
 ## 五、Github
 
-代码github地址：https://github.com/Gao0505/timesMovieKG
+代码github地址：https://github.com/Gao0505/KnowledgeGraph/tree/master/TimesMovieKG
 
 ## 参考
 
