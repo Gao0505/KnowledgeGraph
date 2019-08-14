@@ -22,7 +22,7 @@ Neo4j安装：https://blog.csdn.net/gggggao/article/details/93595137
 
 ![img2.1](images/1565669293981.png)
 
-数据导入neo4j的方式有五种[^img2.2]，因为节点数量不多，所以采用**LOAD CSV**的方式来进行导入
+数据导入neo4j的方式有五种[^img2.2]，这里采用最后一种方法（**Neo4j-import**）来进行导入
 
 ![img2.2](images/1565676761449.png)
 
@@ -321,4 +321,5 @@ neo4j-admin import --mode=csv --database=movie.db --nodes D:\TestCodes\Python\Cr
 
 [1]: https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/89078048	"爬取豆瓣电影榜单构建知识图谱"
 [2]: https://blog.csdn.net/sinat_25479505/article/details/80996402	"Neo4j Import 数据导入"
+[3]:  https://blog.csdn.net/Chen18125/article/details/84101458		"neo4j+python知识图谱构建(基于豆瓣TOP250电影)"
 
